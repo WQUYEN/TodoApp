@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- drawable/frame_6.xml -->
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="322dp"
+    android:height="40dp"
+    android:viewportWidth="322"
+    android:viewportHeight="37"
+    >
+    <group>
+        <clip-path
+            android:pathData="M6 1H316C318.761 1 321 3.23858 321 6V31C321 33.7614 318.761 36 316 36H6C3.23858 36 1 33.7614 1 31V6C1 3.23858 3.23858 1 6 1Z"
+            />
+    </group>
+    <group>
+        <clip-path
+            android:pathData="M0 0V37H322V0M6 1H316C318.761 1 321 3.23858 321 6V31C321 33.7614 318.761 36 316 36H6C3.23858 36 1 33.7614 1 31V6C1 3.23858 3.23858 1 6 1Z"
+            />
+        <path
+            android:pathData="M6 1H316C318.761 1 321 3.23858 321 6V31C321 33.7614 318.761 36 316 36H6C3.23858 36 1 33.7614 1 31V6C1 3.23858 3.23858 1 6 1Z"
+            android:strokeWidth="2"
+            android:strokeColor="#6C6C6C"
+            />
+    </group>
+</vector>
